@@ -45,14 +45,14 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/suber.git
+   git clone https://github.com/mikey081/suber.git
    cd suber
    ```
 
 2. **Install dependencies**:
    ```bash
    npm install
-   cd client
+   cd frontend
    npm install
    ```
 
@@ -64,7 +64,7 @@
 
 4. **Start the frontend**:
    ```bash
-   cd client
+   cd frontend
    npm start
    ```
 
@@ -75,7 +75,7 @@
 
 ## 🤝 Development
 
-* **Frontend Folder**: `/client`
+* **Frontend Folder**: `/frontend`
 * **Backend Folder**: `/server`
 * **API Routes**: `/server/routes`
 
@@ -128,7 +128,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 For queries or suggestions, feel free to reach out:
 
 * **Email**: kcmadhu081@gmail.com
-* **GitHub**: [your-username](https://github.com/mikey081)
+* **GitHub**: https://github.com/mikey081
 
 ---
 
